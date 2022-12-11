@@ -1,0 +1,13 @@
+name: Co2Emissions
+title:
+username:
+account: keyvyn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7866295
+bundleId: 6622429
+url: https://keyvyn.shinyapps.io/Co2Emissions/
+when: 1670743008.08699
+lastSyncTime: 1670743008.087
+asMultiple: FALSE
+asStatic: FALSE
